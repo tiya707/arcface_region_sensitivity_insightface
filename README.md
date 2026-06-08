@@ -72,7 +72,6 @@ arcface_region_sensitivity_insightface/
 - Lower face regions show lower discriminative power
 - Region masking significantly reduces embedding similarity
 
-(Add your plots from `results/plots/` here)
 
 ---
 
